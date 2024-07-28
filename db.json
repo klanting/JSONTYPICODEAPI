@@ -1,0 +1,143 @@
+{
+	"lists": [
+      {
+        "id": 1,
+        "title": "Finish mp4 assignment for cs-391"
+      },
+      {
+        "id": 2,
+        "title": "Finish final project for for cs-391"
+      },
+      {
+        "id": 3,
+        "title": "Make old code public github ready"
+      },
+      {
+        "id": 4,
+        "title": "Go to the super market"
+      },
+      {
+        "id": 5,
+        "title": "Make a react based portfolio resume page"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "listId": 1,
+        "title": "Bring chapter 5 code up to date",
+        "estimatedHours": 3,
+        "category": "programming",
+        "description": "The chapter 5 of the book contains outdated code, this need to be updated",
+        "personalDeadline": "07/28",
+        "startDate": "07/24",
+        "deadline": "07/30",
+        "priority": "highest priority",
+        "difficulty": "medium"
+      },
+      {
+        "id": 2,
+        "listId": 1,
+        "title": "Add own API database",
+        "estimatedHours": 2,
+        "category": "programming",
+        "description": "Create a fake json server having data that can be retrieved using an API",
+        "personalDeadline": "07/28",
+        "startDate": "07/26",
+        "deadline": "07/30",
+        "priority": "highest priority",
+        "difficulty": "easy"
+      },
+      {
+        "id": 3,
+        "listId": 2,
+        "title": "Get the color picking menu working",
+        "estimatedHours": 7,
+        "category": "programming",
+        "description": "Making a react component to let the user change colors using a UI",
+        "personalDeadline": "07/27",
+        "startDate": "07/25",
+        "deadline": "08/08",
+        "priority": "highest priority",
+        "difficulty": "hard"
+      },
+      {
+        "id": 4,
+        "listId": 2,
+        "title": "Make sure the colors can be picked for multiple variables",
+        "estimatedHours": 2,
+        "category": "programming",
+        "description": "make it so, that a map of colors are stored",
+        "personalDeadline": "07/27",
+        "startDate": "07/25",
+        "deadline": "08/08",
+        "priority": "high priority",
+        "difficulty": "medium"
+      },
+      {
+        "id": 5,
+        "listId": 3,
+        "title": "Make the Computer Graphics project github ready",
+        "estimatedHours": 11,
+        "category": "programming",
+        "description": "Do a refactoring of the project code, so the quality is good enough to post it on github",
+        "personalDeadline": "08/01",
+        "startDate": "07/20",
+        "deadline": "08/01",
+        "priority": "medium priority",
+        "difficulty": "hard"
+      },
+      {
+        "id": 6,
+        "listId": 3,
+        "title": "Make the GAS project github ready",
+        "estimatedHours": 6,
+        "category": "programming",
+        "description": "Do a refactoring of the project code, so the quality is good enough to post it on github",
+        "personalDeadline": "08/01",
+        "startDate": "07/20",
+        "deadline": "08/01",
+        "priority": "medium priority",
+        "difficulty": "medium"
+      },
+      {
+        "id": 7,
+        "listId": 4,
+        "title": "Buy breakfast",
+        "estimatedHours": 6,
+        "category": "programming",
+        "description": "Buy some food for breakfast for the coming week",
+        "personalDeadline": "07/29",
+        "startDate": "07/28",
+        "deadline": "07/29",
+        "priority": "high priority",
+        "difficulty": "very easy"
+      },
+      {
+        "id": 8,
+        "listId": 5,
+        "title": "Convert the plain HTML resume to react",
+        "estimatedHours": 4,
+        "category": "programming",
+        "description": "My resume for mp1 needs to be made in react vite",
+        "personalDeadline": "08/01",
+        "startDate": "08/01",
+        "deadline": "08/01",
+        "priority": "low priority",
+        "difficulty": "easy"
+      },
+      {
+        "id": 9,
+        "listId": 5,
+        "title": "Improve resume styling",
+        "estimatedHours": 7,
+        "category": "programming",
+        "description": "Improve my resume visual quality",
+        "personalDeadline": "08/01",
+        "startDate": "08/01",
+        "deadline": "08/01",
+        "priority": "low priority",
+        "difficulty": "easy"
+      }
+    ]
+}
